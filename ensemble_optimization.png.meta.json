@@ -1,0 +1,1 @@
+{"caption": "Validation Error across different weight combinations for AdaBoost and Stacking Regressor", "description": "Line chart showing the convex curve of Mean Squared Error as the weight for AdaBoost increases from 0 to 1. The optimal point is highlighted with a red star."}
